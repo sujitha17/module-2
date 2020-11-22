@@ -1,5 +1,6 @@
 # module-2
-<!doctype html>
+
+<html>
 <head>
   <meta charset="utf-8">
   <title>module2</title>
@@ -76,11 +77,11 @@ float:right;
 <h1>our menu</h1>
   <div class="row">
   <div class="col-lg-3 col-md-2 col-xs-1">  <h2>chicken</h2>
-    <p>Chicken Biryani is a savory chicken and rice dish that includes layers of chicken, rice, and aromatics that are steamed together. The bottom layer of rice absorbs  </p>
+    <p>Chicken Biryani is a savory chicken and rice dish that includes layers of chicken, rice, and aromatics that are steamed together. The bottom layer  </p>
   </div>
   <div class="col-lg-3 col-md-2 col-xs-1">
-    <h2 position:>beef</h2>
-    <p>Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times. Beef is a source of protein and nutrients.</p>
+    <h2>beef</h2>
+    <p>Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times. Beef is a source</p>
   </div>
   <div class="col-lg-3 col-md-2 col-xs-1">
     <h2>sushi</h2>
